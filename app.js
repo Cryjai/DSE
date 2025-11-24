@@ -260,7 +260,7 @@ const resourcesData = {
         {
             title: "DSE Life backup",
             description: "DSE by topic&by year",
-            url:"https://drive.google.com/drive/folders/1d47c-ZiAr03_rL0OnfWbnbccKRKyMCQL?usp=sharing"
+            url:"https://dsepp.ru/index.html"
         },
         {
             title: "Study Room",
